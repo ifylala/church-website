@@ -5605,7 +5605,9 @@ label {
     display: block;
   }
 }
+{
 
+}
 .changes-info span {
   font-size: 14px;
   line-height: 26px;
@@ -5628,7 +5630,10 @@ label {
     text-align: left;
   }
 }
-
+#churchlogo1 {
+  width: 60%;
+  height: 60%;
+}
 .news-author {
   display: flex;
   align-items: center;
