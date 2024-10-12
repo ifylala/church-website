@@ -165,6 +165,9 @@ ul {
   margin: 0px;
   padding: 0px;
 }
+.location{
+  font-size: 18px;
+}
 
 li {
   list-style: none;
@@ -192,7 +195,7 @@ hr {
 label {
   color: #7e7e7e;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
 }
 
