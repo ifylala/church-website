@@ -2129,7 +2129,7 @@ label {
 }
 .main-menu ul li a {
   display: block;
-  color: #121121;
+  color: #fff;
   font-weight: 700;
   padding: 45px 0;
   font-size: 13px;
@@ -2233,7 +2233,7 @@ label {
 }
 
 .sticky.menu-area {
-  background: #ffffff;
+  background: #121121;
 }
 
 .sticky.menu-area-two {
@@ -6117,7 +6117,11 @@ label {
   }
 }
 
-.page-title h2 {
+.page-title h3 {
+  color:#fff;
+}
+
+.page-title h2  {
   font-family: "Merriweather", serif;
   color: #ffffff;
   font-size: 75px;
