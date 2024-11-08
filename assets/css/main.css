@@ -48,6 +48,10 @@ body {
   font-size: 16px;
 }
 
+body, html {
+  overflow-x: hidden;
+}
+
 .img, img {
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
