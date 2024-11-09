@@ -2235,6 +2235,9 @@ label {
   padding: 0px 0px;
   border: none;
 }
+.page-title h6 {
+  color: #fff;
+}
 
 .sticky.menu-area {
   background: #121121;
